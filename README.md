@@ -1,7 +1,6 @@
 # Apply-Lightweight-Fine-Tuning-to-a-Foundation-Model1
 
-## Project Title:
-### Parameter-Efficient Fine-Tuning with Hugging Face PEFT
+## Project Title: Parameter-Efficient Fine-Tuning with Hugging Face PEFT
 
 ### Project Description:
 In this project, I focused on lightweight fine-tuning, an essential technique for adapting foundation models to specific tasks without the need for heavy computational resources. Using the Hugging Face peft library, I implemented parameter-efficient fine-tuning (PEFT) to customize a pre-trained model for a new application.
