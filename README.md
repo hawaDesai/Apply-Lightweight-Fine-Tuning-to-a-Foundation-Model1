@@ -3,7 +3,7 @@
 ## Project Title: Parameter-Efficient Fine-Tuning with Hugging Face PEFT
 
 ### Project Description:
-In this project, I focused on lightweight fine-tuning to modify a foundational model. Using the Hugging Face peft library, I implemented parameter-efficient fine-tuning (PEFT) to customize a pre-trained model.
+In this project, I focused on lightweight fine-tuning to modify gpt-2 - a pretrained foundational model from HuggingFace. Using Hugging Face PEFT library I fine-tuned gpt-2 model that was used for sequence classfication. 
 
 ### Specifically, I:
 - I first loaded and evaluated a pre-trained model, then applied parameter-efficient fine-tuning to modify the model 
