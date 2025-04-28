@@ -1,4 +1,4 @@
-# Apply-Lightweight-Fine-Tuning-to-a-Foundation-Model1
+# Cognizant AI Externship Project: Apply-Lightweight-Fine-Tuning-to-a-Foundation-Model1
 
 ## Project Title: Parameter-Efficient Fine-Tuning with Hugging Face PEFT
 
